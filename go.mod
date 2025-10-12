@@ -1,11 +1,11 @@
-module github.com/asticode/go-astilectron-bootstrap
+module github.com/firebat20/go-astilectron-bootstrap
 
 go 1.25
 
 require (
 	github.com/asticode/go-astikit v0.56.0
-	github.com/asticode/go-astilectron v0.30.0
-	github.com/asticode/go-astilectron-bundler v0.7.12
+	github.com/firebat20/go-astilectron v0.30.0
+	github.com/firebat20/go-astilectron-bundler v0.7.12
 )
 
 require (

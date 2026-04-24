@@ -3,9 +3,9 @@ module github.com/firebat20/go-astilectron-bootstrap
 go 1.26
 
 require (
-	github.com/asticode/go-astikit v0.57.1
-	github.com/firebat20/go-astilectron v0.0.0-20260118150311-a0d2e083ecb1
-	github.com/firebat20/go-astilectron-bundler v0.0.0-20260223060343-a8a18b4e50a4
+	github.com/asticode/go-astikit v0.59.0
+	github.com/firebat20/go-astilectron v0.0.0-20260424023421-2261bc12f84b
+	github.com/firebat20/go-astilectron-bundler v0.0.0-20260424024520-1ccb60bf4f95
 )
 
 require (

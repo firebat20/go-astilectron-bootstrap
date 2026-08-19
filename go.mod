@@ -4,7 +4,7 @@ go 1.26
 
 require (
 	github.com/asticode/go-astikit v0.59.0
-	github.com/firebat20/go-astilectron v0.0.0-20260424023421-2261bc12f84b
+	github.com/firebat20/go-astilectron v0.0.0-20260804230919-117eae9631b7
 	github.com/firebat20/go-astilectron-bundler v0.0.0-20260424024520-1ccb60bf4f95
 )
 
